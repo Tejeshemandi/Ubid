@@ -3,7 +3,8 @@ working phase
 
 
 
-![clock](https://github.com/user-attachments/assets/1e50ceb2-291d-46c7-a396-f974ddf8fe03)
+![Clock](images/clock.jpg)
+
 ![F1](https://github.com/user-attachments/assets/e0db3d32-6c4f-4529-a536-cd641d7b40af)
 ![f2](https://github.com/user-attachments/assets/efd3e82d-d63a-41ff-bca7-477f3fe42acf)
 ![f3](https://github.com/user-attachments/assets/1e9666c7-93e3-41ed-a721-f7e311db5c84)
